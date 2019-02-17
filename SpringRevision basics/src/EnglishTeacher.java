@@ -15,7 +15,9 @@ public class EnglishTeacher implements Teacher {
 	public String Subject() {
 		// TODO Auto-generated method stub
 		System.out.println("My subject is English");
-		return "My suject is English";
+
+
+		return "My is English";
 	}
 
 	@Override
